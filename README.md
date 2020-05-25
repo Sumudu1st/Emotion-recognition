@@ -21,3 +21,4 @@ You may need,
 
 Coding done with JetBrains PyCharm Community Edition 2018.2.4
 
+This is an university mini group project for group of 4 members.
